@@ -6,7 +6,7 @@ pandas
 ipython
 sqlalchemy
 statsmodels
-llvmlite
+llvmlite==0.14.0
 scikit-learn
 jupyter
 numba
