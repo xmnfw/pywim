@@ -8,5 +8,5 @@ sqlalchemy
 statsmodels
 llvmlite
 scikit-learn
-jupyter
+jupyter==1.0.0
 numba
