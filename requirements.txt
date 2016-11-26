@@ -1,7 +1,7 @@
 psycopg2
 numpy
 scipy
-matplotlib
+matplotlib==1.5.3
 pandas
 ipython
 sqlalchemy
